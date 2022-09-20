@@ -1,0 +1,1 @@
+open class User(val userType: String, val mailID: String, val name:String, val age: Int, val mobileNumber: String)
